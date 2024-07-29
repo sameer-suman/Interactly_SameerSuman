@@ -1,0 +1,12 @@
+flask
+flask-cors
+pymongo
+pandas
+openpyxl
+elasticsearch
+transformers[torch]
+torch
+datasets
+accelerate
+scikit-learn
+evaluate
