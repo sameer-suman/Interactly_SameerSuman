@@ -1,3 +1,5 @@
+**Download [this](https://drive.google.com/file/d/1NuMuKesm0MWbZyFDapbVqx45EE8SVGbd/view?usp=sharing) Safetensor file and place it in the fine_tuned_model folder.**
+
 Job Matching System
 
 Overview
