@@ -60,7 +60,7 @@ Usage
 Upload Candidates Data
 
     Click on the "Upload Candidates Data" section.
-    Choose a file containing the candidate data.
+    Choose a xlsx file containing the candidate data.
     Click the "Upload" button to send the file to the backend.
 
 Query Job Description
